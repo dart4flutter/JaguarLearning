@@ -6,39 +6,28 @@ dart框架Jaguar学习仓库
 #### 软件架构
 Jaguar https://github.com/Jaguar-dart, 是dart的一款服务端框架，可用来开发dart的服务器端及接口。
 
+
+#### 主要学习内容
  jaguar: ^2.4.19 
  
- jaguar_orm: ^2.2.1
+ jaguar_orm增删改查
  
- jaguar_query_postgres: ^2.2.2
+ jaguar_query_postgres: 使用PostgresSQL数据库
  
- jaguar_jwt: ^2.1.5
+ jaguar_jwt: 用户验证
  
- jaguar_reflect: ^2.4.6
+ jaguar_session_jwt: session
  
- jaguar_serializer: ^2.2.0
+ jaguar_reflect: 反射
  
- jaguar_cache: ^2.1.2
+ jaguar_serializer: json
  
- jaguar_session_jwt: ^2.2.1
+ jaguar_cache: 缓存
  
- jaguar_auth: ^2.4.0
+ jaguar_orm_gen: 自动生成Bean
  
- jaguar_resty: ^2.8.0
  
- jaguar_dev_proxy: ^2.4.4
- 
- jaguar_client: ^2.4.0
- 
- jaguar_cors: ^2.4.4
- 
- jaguar_throttle: ^2.4.1
- 
- jaguar_orm_gen: ^2.2.26
- 
- jaguar_generator: ^2.4.5
- 
- jaguar_hotreload: ^2.0.2
+ jaguar_hotreload: 热重载
 
 
 #### 安装教程
