@@ -21,6 +21,7 @@ pub和Dart的环境变量
 ![123](https://github.com/dart4flutter/JaguarLearning/blob/master/Jaguar/doc/Jaguar-5.png)
 
 启动服务器
+
 ![123](https://github.com/dart4flutter/JaguarLearning/blob/master/Jaguar/doc/Jaguar-6.png)
 
 打开浏览器，访问地址  http://localhost:8080
