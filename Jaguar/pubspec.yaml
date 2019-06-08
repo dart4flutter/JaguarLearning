@@ -1,0 +1,8 @@
+name: Demo10
+decription: jaguar
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  jaguar: ^2.2.24
